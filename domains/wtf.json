@@ -1,9 +1,9 @@
 {
-  "owner": {
-    "username": "wtf",
-    "email": "th.edavi.dbla.ckha.t@gmail.com"
-  },
-  "records": {
-    "CNAME": "wtf.github.io"
-  }
+"owner": {
+"username": "thedavidblackhat",
+"email": "th.edavi.dbla.ckha.t@gmail.com"
+},
+"records": {
+"CNAME": "thedavidblackhat.github.io"
+}
 }
